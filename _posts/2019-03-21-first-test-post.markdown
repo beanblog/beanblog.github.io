@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bean's First Post"
+subtitle: New beginnings in coding and blogging. 
 date:   2019-03-21 16:51:00 -0400
-categories: jekyll update
 ---
 
 This is my first test blog post. I've reinstalled Ruby and Jekyll

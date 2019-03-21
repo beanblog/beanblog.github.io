@@ -17,6 +17,7 @@ header {
       text-decoration: none;
       &:hover {
         color: $link-color;
+        background-color: $main-color;
       }
     }
   } // end h1.title
